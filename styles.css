@@ -157,7 +157,7 @@ figcaption {
     border-radius: 10px;
     background-color: rgb(93, 131, 255);
     color: white;
-    border: 1px solid red;
+    border: 1px solid black;
     justify-content: space-around;
 }
 .call-to-action-container h3 {
